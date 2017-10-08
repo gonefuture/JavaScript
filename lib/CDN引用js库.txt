@@ -1,0 +1,19 @@
+<script src="https://cdn.bootcss.com/vue/2.2.2/vue.min.js"></script>  
+<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+
+
+<script src="https://cdn.bootcss.com/react/15.4.2/react.min.js"></script>
+<script src="https://cdn.bootcss.com/react/15.4.2/react-dom.min.js"></script>
+<script src="https://cdn.bootcss.com/babel-standalone/6.22.1/babel.min.js"></script>
+
+
+<script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+
+
+	<!-- 新 Bootstrap 核心 CSS 文件 -->
+<link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+	<!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+<script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+	<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="https://unpkg.com/popper.js"></script>
